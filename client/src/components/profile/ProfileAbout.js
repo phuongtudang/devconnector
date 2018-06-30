@@ -3,8 +3,6 @@ import PropTypes from 'prop-types';
 import isEmpty from '../../validation/is-empty';
 
 class ProfileAbout extends Component {
-    
-
     render() {
         const { profile } = this.props;
 
